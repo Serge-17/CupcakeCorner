@@ -22,9 +22,9 @@ This project is a cupcake ordering application that allows users to select the t
 
 ## View of the project
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-18 at 16 35 57](https://github.com/gascondev/CupcakeCorner/assets/144269155/9c819172-ccbb-4399-905e-639cb2ff5c05)
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-18 at 16 29 30](https://github.com/gascondev/CupcakeCorner/assets/144269155/5e344431-e97c-4979-a9f9-9466eb9b75c2)
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-18 at 16 29 58](https://github.com/gascondev/CupcakeCorner/assets/144269155/2b6fb24c-9315-4d5a-af78-f407d1c95fa0)
+![Simulator Screenshot](https://github.com/Serge-17/CupcakeCorner/tree/main/CupcakeCorner/Assets.xcassets/CupcakeCorner1)
+![Simulator Screenshot](https://github.com/gascondev/CupcakeCorner/assets/144269155/5e344431-e97c-4979-a9f9-9466eb9b75c2)
+![Simulator Screenshot](https://github.com/gascondev/CupcakeCorner/assets/144269155/2b6fb24c-9315-4d5a-af78-f407d1c95fa0)
 
 
 
