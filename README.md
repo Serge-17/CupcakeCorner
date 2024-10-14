@@ -1,26 +1,26 @@
 # Cupcake Corner App
 
-Este proyecto es una aplicación de pedidos de cupcakes que permite a los usuarios seleccionar el tipo y la cantidad de cupcakes, agregar solicitudes especiales y proporcionar detalles de entrega. La aplicación está diseñada para ser intuitiva y fácil de usar, utilizando SwiftUI para una experiencia de usuario fluida.
+This project is a cupcake ordering application that allows users to select the type and quantity of cupcakes, add special requests, and provide delivery details. The app is designed to be intuitive and easy to use, utilizing SwiftUI for a smooth user experience.
 
-## Conceptos aprendidos en este proyecto
+## Concepts Learned in This Project
 
-- **Diseño de formularios con SwiftUI**: Creación de formularios y secciones para organizar la entrada de datos.
-- **Gestión del estado**: Uso de `@State`, `@Observable`, y `@Bindable` para mantener y actualizar el estado de la aplicación.
-- **Navegación**: Implementación de navegación dentro de la aplicación usando `NavigationStack` y `NavigationLink`.
-- **Controles de interfaz de usuario**: Uso de `Picker`, `Stepper`, y `Toggle` para crear una interfaz interactiva.
-- **Codificación y decodificación de datos**: Uso de `Codable`, `JSONEncoder`, y `JSONDecoder` para manejar datos.
-- **Peticiones de red**: Creación de peticiones de red con `URLRequest`.
+- **Form design with SwiftUI**: Creation of forms and sections to organize data entry.
+-**State Management**: Use of '@State`, '@Observable`, and '@Bindable' to maintain and update the state of the application.
+- **Navigation**: Implementation of navigation within the application using 'NavigationStack' and 'NavigationLink'.
+- **User interface controls**: Use of 'Picker`, 'Stepper`, and 'Toggle' to create an interactive interface.
+-**Data encoding and decoding**: Using 'Codable`, 'JSONEncoder`, and 'JSONDecoder' to handle data.
+- **Network requests**: Creation of network requests with 'URLRequest'.
 
-## Características principales
+## Main features
 
-- **Selección de tipo de cupcake**: Los usuarios pueden elegir entre diferentes tipos de cupcakes.
-- **Cantidad de cupcakes**: Los usuarios pueden seleccionar la cantidad de cupcakes que desean pedir.
-- **Solicitudes especiales**: Opciones para agregar glaseado extra y chispas adicionales.
-- **Detalles de entrega**: Navegación a una vista para ingresar los detalles de entrega.
-- **Persistencia y recuperación de datos**: Codificación y decodificación de datos de la orden para su persistencia y recuperación.
-- **Envío de pedidos**: Envío de la orden a un servidor usando una petición de red.
+- **Cupcake type selection**: Users can choose from different types of cupcakes.
+- **Quantity of cupcakes**: Users can select the quantity of cupcakes they want to order.
+- **Special requests**: Options to add extra frosting and extra sprinkles.
+- **Delivery Details**: One view navigation to enter the delivery details.
+- **Data persistence and recovery**: Encoding and decoding of order data for persistence and recovery.
+- **Order submission**: Sending the order to a server using a network request.
 
-## Vista del proyecto
+## View of the project
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-06-18 at 16 35 57](https://github.com/gascondev/CupcakeCorner/assets/144269155/9c819172-ccbb-4399-905e-639cb2ff5c05)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-06-18 at 16 29 30](https://github.com/gascondev/CupcakeCorner/assets/144269155/5e344431-e97c-4979-a9f9-9466eb9b75c2)
@@ -28,11 +28,11 @@ Este proyecto es una aplicación de pedidos de cupcakes que permite a los usuari
 
 
 
-## Instalación del proyecto
+## Installation of the project
 
-Para instalar este proyecto:
+To install this project:
 
-1. Descargar el archivo comprimido (.zip).
-2. Descomprimir el archivo.
-3. Abrir el proyecto con Xcode.
-4. Ejecutar el simulador pulsando el símbolo ▶️ PLAY en la esquina superior izquierda o usando el atajo CMD ⌘ + R.
+1. Download the compressed file (.zip).
+2. Unzip the file.
+3. Open the project with Xcode.
+4. Run the simulator by pressing the ▶️ PLAY symbol in the upper left corner or by using the shortcut CMD ⌘ + R.
