@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		41F178732CBD24FB00D10103 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 41F178722CBD24FB00D10103 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		413548642CB93A6F004189FD /* CupcakeCorner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CupcakeCorner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		41F178722CBD24FB00D10103 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		4135485B2CB93A6F004189FD = {
 			isa = PBXGroup;
 			children = (
+				41F178722CBD24FB00D10103 /* README.md */,
 				413548662CB93A6F004189FD /* CupcakeCorner */,
 				413548652CB93A6F004189FD /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41F178732CBD24FB00D10103 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
