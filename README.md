@@ -26,7 +26,7 @@
 
 | Главный экран | Данные доставки | Оформление заказа |
 | :---: | :---: | :---: |
-| ![Selection](Screenshots/main.png) | ![Address](Screenshots/address.png) | ![Checkout](Screenshots/checkout.png) |
+| ![Selection](Screenshots/CupcakeCorner_1.png) | ![Address](Screenshots/CupcakeCorner_2.png) | ![Checkout](Screenshots/CupcakeCorner_3.png) |
 
 ## 🚀 Как запустить
 
